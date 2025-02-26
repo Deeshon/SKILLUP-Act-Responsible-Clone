@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+
+@theme {
+  --color-red-000: #e30713
+}
+
+
